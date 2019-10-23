@@ -3,7 +3,7 @@
 body{
 	font: 800 18px/1.2 "Quicksand", sans-serif;
 	background-color: #E5EDEF;
-	background: url(../img/bg.jpeg) no-repeat center center;
+	background: url(../img/backgr.jpeg) no-repeat center center;
 }
 
 /* Layout */
@@ -108,7 +108,7 @@ select:focus {
 }
 
 .ba-double-input {
-	margin-bottom: 19px;
+	margin-bottom: 10px;
 }
 
 .ba-form-input__label {
